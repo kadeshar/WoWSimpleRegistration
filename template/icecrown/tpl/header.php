@@ -60,6 +60,7 @@
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
                         <li><a href="./index.php"><?php elang('home'); ?></a></li>
+						<li><a href="./map/index.php">Map</a></li>
                         <li><a onclick="$('#register').trigger('click')"><?php elang('register'); ?></a></li>
                         <li><a onclick="$('#howtoconnect').trigger('click')"><?php elang('how_to_connect'); ?></a></li>
                         <?php if (!get_config('disable_online_players')) { ?>

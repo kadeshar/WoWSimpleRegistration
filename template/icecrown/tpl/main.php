@@ -23,7 +23,7 @@ require_once 'header.php'; ?>
                              alt="WoW" style="width:100%;">
                     </div>
                     <div class="item">
-                        <img src="<?php echo $antiXss->xss_clean(get_config("baseurl")); ?>/template/<?php echo $antiXss->xss_clean(get_config("template")); ?>/images/slide1.jpg"
+                        <img src="<?php echo $antiXss->xss_clean(get_config("baseurl")); ?>/template/<?php echo $antiXss->xss_clean(get_config("template")); ?>/images/slide2.jpg"
                              alt="WoW" style="width:100%;">
                     </div>
                     <div class="item">
@@ -497,7 +497,8 @@ require_once 'header.php'; ?>
                 <hr style="border-color: #00CCFF;">
                 <p><?php elang('realmlist'); ?>: <span style="color: yellow;"><?php echo get_config('realmlist'); ?></span></p>
                 <?php echo(!empty(get_config("game_version")) ? '<p>' . lang('game_version') . ': <span style="color: yellow;">' . get_config("game_version") . '</span></p>' : ''); ?>
-                <?php echo(!empty(get_config("patch_location")) ? '<p>' . lang('server_patch') . ': <a href="' . get_config("patch_location") . '" style="color: yellow;">' . lang('download') . '</a></p>' : ''); ?>
+				<?php echo('<p>Client download:'); ?>
+				<?php echo('<p><a href="https://1fichier.com/?0qauls7p3cl83dplz2je" style="color: yellow;">Zavarius client</a></p>'); ?>
             </div>
             <?php if(!empty(get_config('supported_langs'))) { ?>
             <div class="box1">
@@ -518,12 +519,6 @@ require_once 'header.php'; ?>
             </form>
             </div>
              <?php } ?>
-            <div class="box1">
-                Discord
-                <hr style="border-color: #00CCFF;">
-                <iframe src="https://discordapp.com/widget?id=376650959532589057&theme=dark" width="330"
-                        height="600" allowtransparency="true" frameborder="0"></iframe>
-            </div>
         </div>
     </div>
 </div>
