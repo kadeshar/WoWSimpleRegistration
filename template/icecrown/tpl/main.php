@@ -14,7 +14,6 @@ require_once 'header.php'; ?>
                 <ol class="carousel-indicators">
                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                     <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
                 </ol>
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
@@ -24,10 +23,6 @@ require_once 'header.php'; ?>
                     </div>
                     <div class="item">
                         <img src="<?php echo $antiXss->xss_clean(get_config("baseurl")); ?>/template/<?php echo $antiXss->xss_clean(get_config("template")); ?>/images/slide2.jpg"
-                             alt="WoW" style="width:100%;">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo $antiXss->xss_clean(get_config("baseurl")); ?>/template/<?php echo $antiXss->xss_clean(get_config("template")); ?>/images/slide1.jpg"
                              alt="WoW" style="width:100%;">
                     </div>
                 </div>
@@ -47,23 +42,11 @@ require_once 'header.php'; ?>
                 <div class="tab-content" id="nav-tabContent">
                     <div class="tab-pane fade in <?php echo((empty($error_error) && empty($success_msg)) ? 'active' : ''); ?>"
                          id="pills-main">
-                        <?php elang('welcome_message'); ?>
+                        Welcome to AzerothCore Single Player Repack
                         <hr style="border-color: #00CCFF;">
                         <p style="text-align: justify">
-                            This is a sample text, This is a sample text, This is a sample text, This is a sample
-                            text, This is a sample text, This is a sample text, This is a sample text, This is a
-                            sample text, This is a sample text, This is a sample text, This is a sample text, This
-                            is a sample text, This is a sample text, This is a sample text, This is a sample text,
-                            This is a sample text, This is a sample text, This is a sample text, This is a sample
-                            text, This is a sample text, This is a sample text, This is a sample text, This is a
-                            sample text, This is a sample text, This is a sample text, This is a sample text, This
-                            is a sample text, This is a sample text, This is a sample text, This is a sample text,
-                            This is a sample text, This is a sample text, This is a sample text, This is a sample
-                            text, This is a sample text, This is a sample text, This is a sample text, This is a
-                            sample text, This is a sample text.
+                            Welcome to the AzerothCore Single Player Repack, your ultimate solution for enjoying the World of Warcraft solo experience! Designed specifically for single-player gameplay, this repack includes two essential modules: PlayerBots and AHBots, ensuring a rich and immersive adventure.
                         </p>
-                        <p><?php elang('edit_on'); ?> template/<?php echo $antiXss->xss_clean(get_config("template")); ?>
-                            /tpl/main.php</p>
                     </div>
                     <div class="tab-pane fade in <?php echo(!(empty($error_error) && empty($success_msg)) ? 'active' : ''); ?>"
                          id="pills-register">
@@ -498,7 +481,7 @@ require_once 'header.php'; ?>
                 <p><?php elang('realmlist'); ?>: <span style="color: yellow;"><?php echo get_config('realmlist'); ?></span></p>
                 <?php echo(!empty(get_config("game_version")) ? '<p>' . lang('game_version') . ': <span style="color: yellow;">' . get_config("game_version") . '</span></p>' : ''); ?>
 				<?php echo('<p>Client download:'); ?>
-				<?php echo('<p><a href="https://1fichier.com/?0qauls7p3cl83dplz2je" style="color: yellow;">Zavarius client</a></p>'); ?>
+				<?php echo('<p><a href="https://1fichier.com/?0qauls7p3cl83dplz2je" style="color: yellow;" target="_blank">Zavarius client</a></p>'); ?>
             </div>
             <?php if(!empty(get_config('supported_langs'))) { ?>
             <div class="box1">
