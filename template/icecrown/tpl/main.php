@@ -38,6 +38,7 @@ require_once 'header.php'; ?>
                         <li><a data-toggle="tab" href="#pills-topplayers" id="topplayers"><?php elang('top_players'); ?></a></li>
                     <?php } ?>
                     <li><a data-toggle="tab" href="#pills-contact" id="contact"><?php elang('contact'); ?></a></li>
+                    <li><a data-toggle="tab" href="#pills-changelog" id="changelog">Changelog</a></li>
                 </ul>
                 <div class="tab-content" id="nav-tabContent">
                     <div class="tab-pane fade in <?php echo((empty($error_error) && empty($success_msg)) ? 'active' : ''); ?>"
@@ -470,6 +471,9 @@ require_once 'header.php'; ?>
                     <?php } ?>
                     <div class="tab-pane fade in" id="pills-contact">
                         <?php require_once base_path . 'template/' . $antiXss->xss_clean(get_config("template")) . '/tpl/contactus.php'; ?>
+                    </div>
+					<div class="tab-pane fade in" id="pills-changelog">
+                        <?php require_once base_path . 'template/' . $antiXss->xss_clean(get_config("template")) . '/tpl/changelog.php'; ?>
                     </div>
                 </div>
             </div>
