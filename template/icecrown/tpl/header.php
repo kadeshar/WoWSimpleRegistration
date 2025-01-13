@@ -68,6 +68,7 @@
                         if (!get_config('disable_top_players')) { ?>
                             <li><a onclick="$('#topplayers').trigger('click')"><?php elang('top_players'); ?></a></li>
                         <?php } ?>
+                        <li><a onclick="$('#resources').trigger('click')">Resources</a></li>
                         <li><a onclick="$('#changelog').trigger('click')">Changelog</a></li>
                         <li><a onclick="$('#contact').trigger('click')"><?php elang('contact'); ?></a></li>
                     </ul>

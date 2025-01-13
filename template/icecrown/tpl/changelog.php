@@ -4,6 +4,15 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 0.3.1</strong> - 
+        <em>2025-01-XX</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/repack-0.2...repack-0.3" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/repack-0.2...repack-0.3" target="_blank">Source changelog</a></li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 0.3</strong> - 
         <em>2025-01-08</em>
         <ul>

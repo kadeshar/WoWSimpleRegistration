@@ -39,6 +39,7 @@ require_once 'header.php'; ?>
                     <?php } ?>
                     <li><a data-toggle="tab" href="#pills-contact" id="contact"><?php elang('contact'); ?></a></li>
                     <li><a data-toggle="tab" href="#pills-changelog" id="changelog">Changelog</a></li>
+                    <li><a data-toggle="tab" href="#pills-resources" id="resources">Resources</a></li>
                 </ul>
                 <div class="tab-content" id="nav-tabContent">
                     <div class="tab-pane fade in <?php echo((empty($error_error) && empty($success_msg)) ? 'active' : ''); ?>"
@@ -475,6 +476,9 @@ require_once 'header.php'; ?>
 					<div class="tab-pane fade in" id="pills-changelog">
                         <?php require_once base_path . 'template/' . $antiXss->xss_clean(get_config("template")) . '/tpl/changelog.php'; ?>
                     </div>
+                    <div class="tab-pane fade in" id="pills-resources">
+                        <?php require_once base_path . 'template/' . $antiXss->xss_clean(get_config("template")) . '/tpl/resources.php'; ?>
+                    </div>
                 </div>
             </div>
         </div>
@@ -482,9 +486,12 @@ require_once 'header.php'; ?>
             <div class="box1">
                 <?php elang('server_information'); ?>
                 <hr style="border-color: #00CCFF;">
-                <p><?php elang('realmlist'); ?>: <span style="color: yellow;"><?php echo get_config('realmlist'); ?></span></p>
-                <?php echo(!empty(get_config("game_version")) ? '<p>' . lang('game_version') . ': <span style="color: yellow;">' . get_config("game_version") . '</span></p>' : ''); ?>
-				<?php echo('<p>Client download:'); ?>
+                <p><b><?php elang('realmlist'); ?>:</b> <span style="color: yellow;"><?php echo get_config('realmlist'); ?></span></p>
+                <?php echo(!empty(get_config("game_version")) ? '<p><b>' . lang('game_version') . ':</b> <span style="color: yellow;">' . get_config("game_version") . '</span></p>' : ''); ?>
+				<?php echo('<p><b>Client download:</b>'); ?>
+                <?php echo('<p><b>Clean</b></p>'); ?>
+                <?php echo('<p><a href="https://www.chromiecraft.com/en/downloads/" style="color: yellow;" target="_blank">ChromieCraft client</a></p>'); ?>
+                <?php echo('<p><b>Modern</b></p>'); ?>
 				<?php echo('<p><a href="https://1fichier.com/?0qauls7p3cl83dplz2je" style="color: yellow;" target="_blank">Zavarius client</a></p>'); ?>
             </div>
             <?php if(!empty(get_config('supported_langs'))) { ?>
