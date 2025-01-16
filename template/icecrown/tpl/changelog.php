@@ -4,11 +4,17 @@
     <h1>Changelog</h1>
 
     <div>
-        <strong>Version 0.3.1</strong> - 
-        <em>2025-01-XX</em>
+        <strong>Version 0.4</strong> - 
+        <em>2025-01-16</em>
         <ul>
             <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/repack-0.2...repack-0.3" target="_blank">Source changelog</a></li>
             <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/repack-0.2...repack-0.3" target="_blank">Source changelog</a></li>
+            <li>Updated Transmog source <a href="" target="_blank">Source changelog</a></li>
+            <li>[Progression] Added mod-progression (simple progression module. In mod_progression.conf.dist define Progression.Patch)</li>
+            <li>[Addons] Updated YssBossLoot (no more lua error)</li>
+            <li>[Addons] Updated AuctioneerSuite to version 5.9.4961 (fixed posting auctions)</li>
+            <li>[Addons] Updated Multibot (talents, equipment, spellbook support, rtsc support preview, paladin retribution aura)</li>
+            <li>[Website] Added resources</li>
         </ul>
     </div>
 
