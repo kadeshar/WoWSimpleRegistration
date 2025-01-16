@@ -7,9 +7,10 @@
         <strong>Version 0.4</strong> - 
         <em>2025-01-16</em>
         <ul>
-            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/repack-0.2...repack-0.3" target="_blank">Source changelog</a></li>
-            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/repack-0.2...repack-0.3" target="_blank">Source changelog</a></li>
-            <li>Updated Transmog source <a href="" target="_blank">Source changelog</a></li>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/repack-0.3...repack-0.4" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/repack-0.3...repack-0.4" target="_blank">Source changelog</a></li>
+            <li>Updated Transmog source <a href="https://github.com/kadeshar/mod-transmog/compare/repack-0.2...repack-0.4" target="_blank">Source changelog</a></li>
+            <li>Updated AHBot source <a href="https://github.com/kadeshar/mod-ah-bot/compare/repack-0.2...repack-0.4" target="_blank">Source changelog</a></li>
             <li>[Progression] Added mod-progression (simple progression module. In mod_progression.conf.dist define Progression.Patch)</li>
             <li>[Addons] Updated YssBossLoot (no more lua error)</li>
             <li>[Addons] Updated AuctioneerSuite to version 5.9.4961 (fixed posting auctions)</li>
