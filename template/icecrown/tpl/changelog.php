@@ -4,6 +4,43 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 0.6</strong> - 
+        <em>2025-02-01</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/repack-0.4...ASP-0.5" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/repack-0.4...ASP-0.5" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/repack-0.4...ASP-0.5" target="_blank">Source changelog</a></li>
+            <li>[Skip DK Starting Area] Added module</li>
+            <li>[Tools] Added MPQ editor (required for client modification for incoming vanilla expansion support)</li>
+            <li>[Tools] Added DBC Editor</li>
+            <li>[GM] Added vendor mall at GM Island</li>
+            <li>[Progression] Added support for auctionator (after expiration all auctions on AH should be only items from current patch expansion)</li>
+            <li>[Auction House] Fixed market price baseline for stackable items</li>
+            <li>[Auction House] Added more item coverage to market price baseline</li>
+            <li>[Auction House] Fixed market price baseline to better fit multipliers for bidder/seller to better support items outside baseline</li>
+            <li>[Auction House] Added support pets for auctionator</li>
+            <li>[Extensions] Updated WoWSim (remove gem button, ilvl in gear picker)</li>
+            <li>[Addons] Updated Multibot (better RTSC support. <a href="https://www.youtube.com/watch?v=odev3ZZo4ZQ" target="_blank">Showcase</a>  Showcase: )</li>
+        </ul>
+    </div>
+
+    <div>
+        <strong>Version 0.5</strong> - 
+        <em>2025-01-24</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/repack-0.4...ASP-0.5" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/repack-0.4...ASP-0.5" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/repack-0.4...ASP-0.5" target="_blank">Source changelog</a></li>
+            <li>Updated Transmog source <a href="https://github.com/kadeshar/mod-transmog/compare/repack-0.4...ASP-0.5" target="_blank">Source changelog</a></li>
+            <li>[Auction House] Replaced mod-ah-bot on mod-auctioner</li>
+            <li>[Auction House] Created market price baseline. Feedback welcome.</li>
+            <li>[Addons] Added addons for transmog module (use command .transmog sync to sync your collection with addon)</li>
+            <li>[Addons] Removed in Multibot security check while destroing item from inventory</li>
+            <li>[Trion Control Panel] Added build versioning</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 0.4</strong> - 
         <em>2025-01-16</em>
         <ul>
