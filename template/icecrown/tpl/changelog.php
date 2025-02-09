@@ -4,12 +4,24 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 0.6.1</strong> - 
+        <em>2025-02-09</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-0.6...ASP-0.6.1" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-0.6...ASP-0.6.1" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-0.6...ASP-0.6.1" target="_blank">Source changelog</a></li>
+            <li>[Progression] Added support for auctionator for WOTLK phases for items and gems</li>
+            <li>[Addons] Updated Multibot (better RTSC support)</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 0.6</strong> - 
         <em>2025-02-01</em>
         <ul>
-            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/repack-0.4...ASP-0.5" target="_blank">Source changelog</a></li>
-            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/repack-0.4...ASP-0.5" target="_blank">Source changelog</a></li>
-            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/repack-0.4...ASP-0.5" target="_blank">Source changelog</a></li>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-0.5...ASP-0.6" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-0.5...ASP-0.6" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-0.5...ASP-0.6" target="_blank">Source changelog</a></li>
             <li>[Skip DK Starting Area] Added module</li>
             <li>[Tools] Added MPQ editor (required for client modification for incoming vanilla expansion support)</li>
             <li>[Tools] Added DBC Editor</li>
@@ -20,7 +32,7 @@
             <li>[Auction House] Fixed market price baseline to better fit multipliers for bidder/seller to better support items outside baseline</li>
             <li>[Auction House] Added support pets for auctionator</li>
             <li>[Extensions] Updated WoWSim (remove gem button, ilvl in gear picker)</li>
-            <li>[Addons] Updated Multibot (better RTSC support. <a href="https://www.youtube.com/watch?v=odev3ZZo4ZQ" target="_blank">Showcase</a>  Showcase: )</li>
+            <li>[Addons] Updated Multibot (better RTSC support. <a href="https://www.youtube.com/watch?v=odev3ZZo4ZQ" target="_blank">Showcase</a></li>
         </ul>
     </div>
 
