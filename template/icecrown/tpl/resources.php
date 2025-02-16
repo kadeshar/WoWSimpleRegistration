@@ -14,11 +14,11 @@
     <div>
         <strong>Bugtrackers</strong>
         <ul>
-            <li><a href="https://github.com/azerothcore/azerothcore-wotlk/issues" target="_blank">AzerothCore</a></li>
-            <li><a href="https://github.com/liyunfan1223/mod-playerbots/issues" target="_blank">Playerbots</a></li>
-            <li><a href="https://github.com/araxiaonline/mod-auctionator/issues" target="_blank">Auctionator</a></li>
-            <li><a href="https://github.com/azerothcore/mod-transmog/issues" target="_blank">Transmog</a></li>
-            <li><a href="https://github.com/noisiver/mod-progression/issues" target="_blank">Progression</a></li>
+            <li><a href="https://github.com/kadeshar/azerothcore-wotlk/issues" target="_blank">AzerothCore</a></li>
+            <li><a href="https://github.com/kadeshar/mod-playerbots/issues" target="_blank">Playerbots</a></li>
+            <li><a href="https://github.com/kadeshar/mod-auctionator/issues" target="_blank">Auctionator</a></li>
+            <li><a href="https://github.com/kadeshar/mod-transmog/issues" target="_blank">Transmog</a></li>
+            <li><a href="https://github.com/kadeshar/mod-progression/issues" target="_blank">Progression</a></li>
             <li><a href="https://github.com/kadeshar/mod-progression-auctionator/issues" target="_blank">Progression auctionator</a></li>
         </ul>
     </div>
