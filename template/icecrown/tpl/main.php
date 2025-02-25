@@ -44,10 +44,10 @@ require_once 'header.php'; ?>
                 <div class="tab-content" id="nav-tabContent">
                     <div class="tab-pane fade in <?php echo((empty($error_error) && empty($success_msg)) ? 'active' : ''); ?>"
                          id="pills-main">
-                        Welcome to AzerothCore Single Player Repack
+                        Welcome to AzerothCore Single Player
                         <hr style="border-color: #00CCFF;">
                         <p style="text-align: justify">
-                            Welcome to the AzerothCore Single Player Repack, your ultimate solution for enjoying the World of Warcraft solo experience! Designed specifically for single-player gameplay, this repack includes two essential modules: PlayerBots and AHBots, ensuring a rich and immersive adventure.
+                            Welcome to the AzerothCore Single Player, your ultimate solution for enjoying the World of Warcraft solo experience! Designed specifically for single-player gameplay, this compilation includes two essential modules: PlayerBots and Auctionator, ensuring a rich and immersive adventure.
                         </p>
                     </div>
                     <div class="tab-pane fade in <?php echo(!(empty($error_error) && empty($success_msg)) ? 'active' : ''); ?>"

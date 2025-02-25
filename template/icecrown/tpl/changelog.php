@@ -4,6 +4,40 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 0.8</strong> - 
+        <em>2025-02-25</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-0.7...ASP-0.8" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-0.7...ASP-0.8" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-0.6.1...ASP-0.8" target="_blank">Source changelog</a></li>
+            <li>Updated Transmog source <a href="https://github.com/kadeshar/mod-transmog/compare/ASP-0.5...ASP-0.8" target="_blank">Source changelog</a></li>
+            <li>Updated Eluna source <a href="https://github.com/kadeshar/mod-eluna/compare/ASP-0.7...ASP-0.8" target="_blank">Source changelog</a></li>
+            <li>[Hardcore] Added module (disabled for default) + custom fixes to work on new source and to skip playerbots</li>
+            <li>[Playerbot level brackets] Added module</li>
+            <li>[Launcher] Fixed doubled running world and logon server</li>
+            <li>[Launcher] Fixed hidden website armory command-line</li>
+            <li>[Auctionator] Fixed bug with disabled items (mostly from Vanilla/TBC expansion)</li>
+            <li>[Addons] Updated Multibot (better quest and talents support)</li>
+        </ul>
+    </div>
+
+    <div>
+        <strong>Version 0.7</strong> - 
+        <em>2025-02-17</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-0.6.1...ASP-0.7" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-0.6.1...ASP-0.7" target="_blank">Source changelog</a></li>
+            <li>[Eluna] Added module (by default disabled)</li>
+            <li>[Progression] Added instruction for extended progression support for patched client</li>
+            <li>[Launcher] Added simple support for startup website</li>
+            <li>[Launcher] Fixed crashing on unsupported DPI and workaround in instruction</li>
+            <li>[Extensions] Added pdump with instruction how convert from other repack</li>
+            <li>[Config] Bots will be creating and managing guilds</li>
+            <li>[Addons] Updated Multibot (bugfixes, added 5th group to RTSC, added save variables per character)</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 0.6.1</strong> - 
         <em>2025-02-09</em>
         <ul>
