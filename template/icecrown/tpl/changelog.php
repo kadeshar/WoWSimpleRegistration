@@ -5,7 +5,7 @@
 
     <div>
         <strong>Version 0.8.1</strong> - 
-        <em>2025-03-27</em>
+        <em>2025-03-07</em>
         <ul>
             <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-0.8...ASP-0.8.1" target="_blank">Source changelog</a></li>
             <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-0.8...ASP-0.8.1" target="_blank">Source changelog</a></li>
