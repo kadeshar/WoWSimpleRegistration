@@ -4,6 +4,21 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 0.8.1</strong> - 
+        <em>2025-03-27</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-0.8...ASP-0.8.1" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-0.8...ASP-0.8.1" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-0.8...ASP-0.8.1" target="_blank">Source changelog</a></li>
+            <li>Updated Transmog source <a href="https://github.com/kadeshar/mod-transmog/compare/ASP-0.8...ASP-0.8.1" target="_blank">Source changelog</a></li>
+            <li>Updated Skip Death Knight source <a href="https://github.com/kadeshar/mod-skip-dk-starting-area/compare/ASP-0.6...ASP-0.8.1" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbots level brackets source <a href="https://github.com/kadeshar/mod-player-bot-level-brackets/compare/ASP-0.8...ASP-0.8.1" target="_blank">Source changelog</a></li>
+            <li>[Launcher] Another try to fix doubled running world and logon server</li>
+            <li>[Config] AFK Logout disabled by default</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 0.8</strong> - 
         <em>2025-02-25</em>
         <ul>
