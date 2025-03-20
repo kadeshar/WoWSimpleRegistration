@@ -4,25 +4,21 @@
     <h1>Resources</h1>
 
     <div>
+        <strong>General</strong>
+        <ul>
+            <li><a href="https://github.com/kadeshar/ASP/releases" target="_blank">Updates</a></li>
+            <li><a href="https://github.com/kadeshar/ASP/issues" target="_blank">Bugtracker</a></li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Commands</strong>
         <ul>
             <li><a href="https://www.azerothcore.org/wiki/gm-commands" target="_blank">AzerothCore</a></li>
             <li><a href="https://github.com/liyunfan1223/mod-playerbots/wiki/Playerbot-Commands" target="_blank">Playerbots</a></li>
         </ul>
     </div>
-
-    <div>
-        <strong>Bugtrackers</strong>
-        <ul>
-            <li><a href="https://github.com/kadeshar/azerothcore-wotlk/issues" target="_blank">AzerothCore</a></li>
-            <li><a href="https://github.com/kadeshar/mod-playerbots/issues" target="_blank">Playerbots</a></li>
-            <li><a href="https://github.com/kadeshar/mod-auctionator/issues" target="_blank">Auctionator</a></li>
-            <li><a href="https://github.com/kadeshar/mod-transmog/issues" target="_blank">Transmog</a></li>
-            <li><a href="https://github.com/kadeshar/mod-progression/issues" target="_blank">Progression</a></li>
-            <li><a href="https://github.com/kadeshar/mod-progression-auctionator/issues" target="_blank">Progression auctionator</a></li>
-        </ul>
-    </div>
-
+    
     <div>
         <strong>Addons</strong>
         <ul>
