@@ -4,6 +4,29 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 0.9</strong> - 
+        <em>2025-04-11</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-0.8.2...ASP-0.9" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-0.8.2...ASP-0.9" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-0.8.2...ASP-0.9" target="_blank">Source changelog</a></li>
+            <li>[Ollama] Added module (disabled for default)</li>
+            <li>[Addons] Updated Multibot (skip spell support, russian language support)</li>
+        </ul>
+    </div>
+
+    <div>
+        <strong>Version 0.8.2</strong> - 
+        <em>2025-03-23</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-0.8.1...ASP-0.8.2" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-0.8.1...ASP-0.8.2" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-0.8.1...ASP-0.8.2" target="_blank">Source changelog</a></li>
+            <li>[Addons] Updated Multibot (expanded stay-follow control, more language support)</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 0.8.1</strong> - 
         <em>2025-03-07</em>
         <ul>
