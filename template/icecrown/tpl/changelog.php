@@ -4,6 +4,18 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 0.9.1</strong> - 
+        <em>2025-04-22</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-0.9...ASP-0.9.1" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-0.9...ASP-0.9.1" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-0.9...ASP-0.9.1" target="_blank">Source changelog</a></li>
+            <li>[Extensions] Updated WoWSim to version 0.1.85</li>
+            <li>[Addons] Updated Multibot (bugfix, raid composer view)</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 0.9</strong> - 
         <em>2025-04-11</em>
         <ul>
