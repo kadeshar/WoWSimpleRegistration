@@ -4,6 +4,19 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 0.9.2</strong> - 
+        <em>2025-05-09</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-0.9.1...ASP-0.9.2" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-0.9.1...ASP-0.9.2" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-0.9.1...ASP-0.9.2" target="_blank">Source changelog</a></li>
+            <li>Updated Eluna source <a href="https://github.com/kadeshar/mod-eluna/compare/ASP-0.8...ASP-0.9.2" target="_blank">Source changelog</a></li>
+            <li>Updated Auctionator source <a href="https://github.com/kadeshar/mod-auctionator/compare/ASP-0.5...ASP-0.9.2" target="_blank">Source changelog</a></li>
+            <li>[Addons] Updated Multibot (fixed raid composer view, added in combat support)</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 0.9.1</strong> - 
         <em>2025-04-22</em>
         <ul>
