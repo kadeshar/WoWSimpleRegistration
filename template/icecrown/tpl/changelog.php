@@ -4,6 +4,21 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 1.0.0</strong> - 
+        <em>2025-05-24</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-0.9.2...ASP-1.0" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-0.9.1...ASP-1.0" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-0.9.2...ASP-1.0" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbots level brackets source <a href="https://github.com/kadeshar/mod-player-bot-level-brackets/compare/ASP-0.8.1...ASP-1.0" target="_blank">Source changelog</a></li>
+            <li>[Junk to gold] Added module (enabled for bots by default)</li>
+            <li>[Dead means dead] Added module (disabled by default)</li>
+            <li>[Extensions] Updated WoWSim to version 0.1.86</li>
+            <li>[Addons] Updated Multibot (improvements for colorblind, get bots offline/online)</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 0.9.2</strong> - 
         <em>2025-05-09</em>
         <ul>
