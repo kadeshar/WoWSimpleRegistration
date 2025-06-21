@@ -4,6 +4,22 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 1.0.1</strong> - 
+        <em>2025-06-21</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.0...ASP-1.0.1" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.0...ASP-1.0.1" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.0...ASP-1.0.1" target="_blank">Source changelog</a></li>
+            <li>Updated Hardcore source <a href="https://github.com/kadeshar/mod-hardcore/compare/ASP-0.8...ASP-1.0.1" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbots level brackets source <a href="https://github.com/kadeshar/mod-player-bot-level-brackets/compare/ASP-1.0...ASP-1.0.1" target="_blank">Source changelog</a></li>
+            <li>Updated Ollama source <a href="https://github.com/kadeshar/mod-ollama-chat/compare/ASP-0.9.2...ASP-1.0.1" target="_blank">Source changelog</a></li>
+            <li>[Extensions] Updated WoWSim to version 0.1.87</li>
+            <li>[Addons] Updated Multibot (fixed bugs, added accept quest button, added more languages</li>
+            <li>[Addons] Updated AzerothAdmin</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 1.0.0</strong> - 
         <em>2025-05-24</em>
         <ul>
