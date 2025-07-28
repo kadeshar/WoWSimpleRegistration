@@ -4,6 +4,21 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 1.1.0</strong> - 
+        <em>2025-07-28</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.0.2...ASP-1.1.0" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.0.2...ASP-1.1.0" target="_blank">Source changelog</a></li>
+            <li>Updated Transmog source <a href="https://github.com/kadeshar/mod-transmog/compare/ASP-0.8.1...ASP-1.1.0" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.0.2...ASP-1.1.0" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbots level brackets source <a href="https://github.com/kadeshar/mod-player-bot-level-brackets/compare/ASP-1.0.2...ASP-1.1.0" target="_blank">Source changelog</a></li>
+            <li>[PvP Titles] Added module (disabled by default)</li>
+            <li>[Website] Added PvP Stats page</li>
+            <li>[Launcher] Updated new Trion Control Panel(added protection against turn off mysql while repack running, bugfixes)</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 1.0.2</strong> - 
         <em>2025-07-09</em>
         <ul>
