@@ -4,6 +4,25 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 1.1.1</strong> - 
+        <em>2025-08-19</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.1.0...ASP-1.1.1" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.1.0...ASP-1.1.1" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.1.0...ASP-1.1.1" target="_blank">Source changelog</a></li>
+            <li>Updated Auctionator source <a href="https://github.com/kadeshar/mod-auctionator/compare/ASP-0.9.2...ASP-1.1.1" target="_blank">Source changelog</a></li>
+            <li>Updated Eluna source <a href="https://github.com/kadeshar/mod-eluna/compare/ASP-0.9.2...ASP-1.1.1" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbots level brackets source <a href="https://github.com/kadeshar/mod-player-bot-level-brackets/compare/ASP-1.1.0...ASP-1.1.1" target="_blank">Source changelog</a></li>
+            <li>Updated Ollama chat source <a href="https://github.com/kadeshar/mod-ollama-chat/compare/ASP-1.0.2...ASP-1.1.1" target="_blank">Source changelog</a></li>
+            <li>[Launcher] Updated launcher beta</li>
+            <li>[Extensions] Updated pdump converter (bugfixes)</li>
+            <li>[Extensions] Updated Keira3</li>
+            <li>[Addons] Updated Multibot (new hunter pet commands, GM permission detection, options)</li>
+
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 1.1.0</strong> - 
         <em>2025-07-28</em>
         <ul>
