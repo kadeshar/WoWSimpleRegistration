@@ -18,7 +18,6 @@
             <li>[Extensions] Updated pdump converter (bugfixes)</li>
             <li>[Extensions] Updated Keira3</li>
             <li>[Addons] Updated Multibot (new hunter pet commands, GM permission detection, options)</li>
-
         </ul>
     </div>
 
