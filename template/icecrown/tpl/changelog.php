@@ -4,6 +4,20 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 1.1.2</strong> - 
+        <em>2025-08-26</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.1.1...ASP-1.1.2" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.1.1...ASP-1.1.2" target="_blank">Source changelog</a></li>
+            <li>Updated Ollama chat source <a href="https://github.com/kadeshar/mod-ollama-chat/compare/ASP-1.1.1...ASP-1.1.2" target="_blank">Source changelog</a></li>
+            <li>[Transmog] Custom fix for command .reload portable</li>
+            <li>[MySQL] Optimized configuration for better memory management and harddrive lifetime</li>
+            <li>[Ollama] Added new personalities, updated instruction and default config</li>
+            <li>[Progression] Added support for auctionator for Vanilla phases for items</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 1.1.1</strong> - 
         <em>2025-08-19</em>
         <ul>
