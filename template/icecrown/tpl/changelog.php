@@ -4,6 +4,22 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 1.1.3</strong> - 
+        <em>2025-09-13</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.1.2...ASP-1.1.3" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.1.2...ASP-1.1.3" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.1.1...ASP-1.1.3" target="_blank">Source changelog</a></li>
+            <li>Updated Eluna source <a href="https://github.com/kadeshar/mod-eluna/compare/ASP-1.1.1...ASP-1.1.3" target="_blank">Source changelog</a></li>
+            <li>[Auctionator] Fixed bug with configuration causing lags in vanilla patches. Added warning in configuration file</li>
+            <li>[Launcher] Fixed crash related with other MySQL instance running on server</li>
+            <li>[Extensions] Updated WoWSim (minor bug fixes)</li>
+            <li>[Addons] Updated Multibot (translation fixes, hunter bar saveable position, confirmation popup, favourite bots feature)</li>
+            <li>[Website] Armory bugfix</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 1.1.2</strong> - 
         <em>2025-08-26</em>
         <ul>
