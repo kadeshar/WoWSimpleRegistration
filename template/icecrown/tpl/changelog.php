@@ -4,6 +4,21 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 1.1.4</strong> - 
+        <em>2025-10-XX</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.1.3...ASP-1.1.4" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.1.3...ASP-1.1.4" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.1.3...ASP-1.1.4" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot level brackets source <a href="https://github.com/kadeshar/mod-player-bot-level-brackets/compare/ASP-1.1.1...ASP-1.1.4" target="_blank">Source changelog</a></li>
+            <li>Updated Eluna source <a href="https://github.com/kadeshar/mod-eluna/compare/ASP-1.1.3...ASP-1.1.4" target="_blank">Source changelog</a></li>
+            <li>Updated Ollama source <a href="https://github.com/kadeshar/mod-ollama-chat/compare/ASP-1.1.2...ASP-1.1.4" target="_blank">Source changelog</a></li>
+            <li>[Extensions] Updated Keira3</li>
+            <li>[Addons] Updated Multibot (question to destroy high quality item, added minimap button, added shaman toolbar, bugfixes)</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 1.1.3</strong> - 
         <em>2025-09-13</em>
         <ul>
