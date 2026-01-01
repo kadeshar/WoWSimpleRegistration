@@ -22,7 +22,6 @@
     <div>
         <strong>Addons</strong>
         <ul>
-            <li><a href="https://felbite.com/addons/?expansion=wrath-of-the-lich-king" target="_blank">Felbite</a></li>
             <li><a href="https://github.com/wowgaming/addon-archive" target="_blank">WoWGaming Addons Archive</a></li>
         </ul>
     </div>
