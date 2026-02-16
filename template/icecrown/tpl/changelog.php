@@ -4,6 +4,29 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 1.2.0</strong> - 
+        <em>2026-02-16</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.1.4...ASP-1.2.0" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.1.4...ASP-1.2.0" target="_blank">Source changelog</a></li>
+            <li>Updated Transmog source <a href="https://github.com/kadeshar/mod-transmog/compare/ASP-1.1.2...ASP-1.2.0" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.1.4...ASP-1.2.0" target="_blank">Source changelog</a></li>
+            <li>Updated Auctionator source <a href="https://github.com/kadeshar/mod-auctionator/compare/ASP-1.1.1...ASP-1.2.0" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot level brackets source <a href="https://github.com/kadeshar/mod-player-bot-level-brackets/compare/ASP-1.1.4...ASP-1.2.0" target="_blank">Source changelog</a></li>
+            <li>Updated ALE source <a href="https://github.com/kadeshar/mod-eluna/compare/ASP-1.1.4...ASP-1.2.0" target="_blank">Source changelog</a></li>
+            <li>Updated Ollama source <a href="https://github.com/kadeshar/mod-ollama-chat/compare/ASP-1.1.4...ASP-1.2.0" target="_blank">Source changelog</a></li>
+            <li>[Reagent bank] Added module (disabled by default)</li>
+            <li>[NPC services] Added module</li>
+            <li>[Extensions] Updated Keira3</li>
+            <li>[Extensions] Updated WoWSim</li>
+            <li>[Addons] Updated Multibot</li>
+            <li>[Addons] Updated AzerothAdmin</li>
+            <li>[Addons] Updated WowSimsExporter</li>
+            <li>[Website] Updated Armory</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 1.1.4</strong> - 
         <em>2025-10-05</em>
         <ul>
