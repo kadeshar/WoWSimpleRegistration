@@ -4,6 +4,26 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 1.3.0</strong> - 
+        <em>2026-04-XX</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
+            <li>Updated Transmog source <a href="https://github.com/kadeshar/mod-transmog/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
+            <li>Updated ALE source <a href="https://github.com/kadeshar/mod-eluna/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot level brackets source <a href="https://github.com/kadeshar/mod-player-bot-level-brackets/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
+            <li>Updated NPC services source <a href="https://github.com/kadeshar/mod-npc-services/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
+            <li>[Launcher] Added autoback feature to old launcher</li>
+            <li>[Addons] Updated Multibot (small refactoring)</li>
+            <li>[Addons] Updated AzerothAdmin</li>
+            <li>[Addons] Updated WowSimsExporter</li>
+            <li>[Addons] Added Lichborne (gear tracker addon)</li>
+            <li>[Progression] Dropped support for modified client</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 1.2.0</strong> - 
         <em>2026-02-16</em>
         <ul>
