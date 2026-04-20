@@ -4,8 +4,19 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 1.3.1</strong> - 
+        <em>2026-04-20</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="hhttps://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.3.0...ASP-1.3.1" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.3.0...ASP-1.3.1" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.3.0...ASP-1.3.1" target="_blank">Source changelog</a></li>
+            <li>[Addons] Updated Lichborne</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 1.3.0</strong> - 
-        <em>2026-04-XX</em>
+        <em>2026-04-06</em>
         <ul>
             <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
             <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
@@ -14,7 +25,7 @@
             <li>Updated ALE source <a href="https://github.com/kadeshar/mod-eluna/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
             <li>Updated Playerbot level brackets source <a href="https://github.com/kadeshar/mod-player-bot-level-brackets/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
             <li>Updated NPC services source <a href="https://github.com/kadeshar/mod-npc-services/compare/ASP-1.2.0...ASP-1.3.0" target="_blank">Source changelog</a></li>
-            <li>[Launcher] Added autoback feature to old launcher</li>
+            <li>[Launcher] Added autobackup feature to old launcher</li>
             <li>[Addons] Updated Multibot (small refactoring)</li>
             <li>[Addons] Updated AzerothAdmin</li>
             <li>[Addons] Updated WowSimsExporter</li>
