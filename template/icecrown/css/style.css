@@ -528,3 +528,68 @@ ul.cart-list > li.total > .btn:hover,
 ul.cart-list > li.total > .btn:focus {
     background-color: #dc3236 !important;
 }
+
+/* Custom Dropdown Styling for Icecrown Template */
+@media (min-width: 1024px) {
+    nav.navbar.bootsnav li.dropdown ul.dropdown-menu {
+        background-color: rgba(0, 0, 0, 0.85) !important;
+        border: 1px solid rgba(0, 204, 255, 0.3) !important;
+        border-top: solid 5px #f43438 !important;
+    }
+
+    nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a {
+        color: #0CF !important;
+        border-bottom: 1px solid rgba(0, 204, 255, 0.1) !important;
+        background-color: transparent !important;
+        transition: all 0.3s ease;
+        text-align: left;
+    }
+
+    nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a:hover,
+    nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a:focus {
+        background-color: rgba(0, 204, 255, 0.15) !important;
+        color: #FFFFFF !important;
+        text-shadow: 0px 0px 5px #0CF;
+    }
+
+    nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li:last-child > a {
+        border-bottom: none !important;
+    }
+}
+
+/* Mobile Dropdown Styling */
+@media (max-width: 991px) {
+    nav.navbar.bootsnav.navbar-mobile .navbar-collapse {
+        background-color: rgba(0, 0, 0, 0.95) !important;
+        border-right: 1px solid rgba(0, 204, 255, 0.2);
+    }
+
+    nav.navbar.bootsnav.navbar-mobile ul.nav > li > a {
+        color: #0CF !important;
+        border-bottom: 1px solid rgba(0, 204, 255, 0.1);
+    }
+
+    nav.navbar.bootsnav.navbar-mobile ul.nav > li > a:hover,
+    nav.navbar.bootsnav.navbar-mobile ul.nav > li > a:focus {
+        color: #FFFFFF !important;
+        text-shadow: 0px 0px 5px #0CF;
+    }
+
+    nav.navbar.bootsnav.navbar-mobile ul.nav ul.dropdown-menu {
+        background-color: rgba(255, 255, 255, 0.05) !important;
+        margin-left: 15px;
+        border-left: 2px solid #f43438 !important;
+    }
+
+    nav.navbar.bootsnav.navbar-mobile ul.nav ul.dropdown-menu > li > a {
+        color: #0CF !important;
+        border-bottom: 1px solid rgba(0, 204, 255, 0.05) !important;
+    }
+
+    nav.navbar.bootsnav.navbar-mobile ul.nav ul.dropdown-menu > li > a:hover,
+    nav.navbar.bootsnav.navbar-mobile ul.nav ul.dropdown-menu > li > a:focus {
+        color: #FFFFFF !important;
+        text-shadow: 0px 0px 5px #0CF;
+        background-color: transparent !important;
+    }
+}

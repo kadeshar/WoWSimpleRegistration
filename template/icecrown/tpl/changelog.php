@@ -4,10 +4,41 @@
     <h1>Changelog</h1>
 
     <div>
+        <strong>Version 1.4.0</strong> - 
+        <em>2026-07-22</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.3.2...ASP-1.4.0" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.3.2...ASP-1.4.0" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.3.2...ASP-1.4.0" target="_blank">Source changelog</a></li>
+            <li>Updated ALE source <a href="https://github.com/kadeshar/mod-eluna/compare/ASP-1.3.2...ASP-1.4.0" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot level brackets source <a href="https://github.com/kadeshar/mod-player-bot-level-brackets/compare/ASP-1.3.0...ASP-1.4.0" target="_blank">Source changelog</a></li>
+            <li>[Launcher] Added button to manual backup</li>
+            <li>[Addons] Updated Lichborne, AzerothAdmin</li>
+            <li>[Website] Grouped tools, added WoWSim, changed map on AzerothCore-Playermap-Enhanced</li>
+        </ul>
+    </div>
+
+    <div>
+        <strong>Version 1.3.2</strong> - 
+        <em>2026-05-31</em>
+        <ul>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.3.1...ASP-1.3.2" target="_blank">Source changelog</a></li>
+            <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.3.1...ASP-1.3.2" target="_blank">Source changelog</a></li>
+            <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.3.1...ASP-1.3.2" target="_blank">Source changelog</a></li>
+            <li>Updated Transmog source <a href="https://github.com/kadeshar/mod-transmog/compare/ASP-1.3.0...ASP-1.3.2" target="_blank">Source changelog</a></li>
+            <li>Updated ALE source <a href="https://github.com/kadeshar/mod-eluna/compare/ASP-1.3.0...ASP-1.3.2" target="_blank">Source changelog</a></li>
+            <li>Updated Ollama chat source <a href="https://github.com/kadeshar/mod-ollama-chat/compare/ASP-1.2.0...ASP-1.3.2" target="_blank">Source changelog</a></li>
+            <li>[Launcher] Added button to manual backup</li>
+            <li>[Addons] Updated Lichborne, AzerothAdmin</li>
+            <li>[Website] Grouped tools, added WoWSim, changed map on AzerothCore-Playermap-Enhanced</li>
+        </ul>
+    </div>
+
+    <div>
         <strong>Version 1.3.1</strong> - 
         <em>2026-04-20</em>
         <ul>
-            <li>Updated AzerothCore source <a href="hhttps://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.3.0...ASP-1.3.1" target="_blank">Source changelog</a></li>
+            <li>Updated AzerothCore source <a href="https://github.com/kadeshar/azerothcore-wotlk/compare/ASP-1.3.0...ASP-1.3.1" target="_blank">Source changelog</a></li>
             <li>Updated Playerbot source <a href="https://github.com/kadeshar/mod-playerbots/compare/ASP-1.3.0...ASP-1.3.1" target="_blank">Source changelog</a></li>
             <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.3.0...ASP-1.3.1" target="_blank">Source changelog</a></li>
             <li>[Addons] Updated Lichborne</li>
