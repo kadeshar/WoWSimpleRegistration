@@ -12,9 +12,9 @@
             <li>Updated Progression source <a href="https://github.com/kadeshar/mod-progression/compare/ASP-1.3.2...ASP-1.4.0" target="_blank">Source changelog</a></li>
             <li>Updated ALE source <a href="https://github.com/kadeshar/mod-eluna/compare/ASP-1.3.2...ASP-1.4.0" target="_blank">Source changelog</a></li>
             <li>Updated Playerbot level brackets source <a href="https://github.com/kadeshar/mod-player-bot-level-brackets/compare/ASP-1.3.0...ASP-1.4.0" target="_blank">Source changelog</a></li>
-            <li>[Launcher] Added button to manual backup</li>
+            <li>[Extensions] Updated Keira3</li>
             <li>[Addons] Updated Lichborne, AzerothAdmin</li>
-            <li>[Website] Grouped tools, added WoWSim, changed map on AzerothCore-Playermap-Enhanced</li>
+            <li>[Website] Grouped tools, added WoWSim, changed map on AzerothCore-Playermap-Enhanced and added Chronicle (WarcraftLogs)</li>
         </ul>
     </div>
 
